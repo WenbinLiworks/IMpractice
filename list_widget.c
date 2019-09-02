@@ -10,8 +10,6 @@
 #include<QDialog>
 #include"share.h"
 #include<QSound>
-#include"videoplayer.h"
-#include"qplayer.h"
 #include"help.h"
 
 List_Widget::List_Widget(QWidget *parent) :
@@ -443,11 +441,14 @@ void List_Widget::processPendingDatagrams()
                     Userleave(userName,localHostName,ipAddress);
                     break;
                 }
-        case Shake:
+        /*
+         case Shake:
             {
 
             }
-        case Refuse:
+        */
+            
+      /*    case Refuse:
             {
 //                in >> userName >> localHostName;
 //                QString serverAddress;
