@@ -1,6 +1,8 @@
 # IMpractice
-局域网实时通信
-## 主要功能文件：<br>widget.cpp, list_widget.cpp, dialog.cpp
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+<br>LAN Instant-messaging tool, partial function realization
+<br>The portal for complete version https://github.com/WenbinLiworks/desktopInstantMessagingTools
+## Main Function Files：<br>widget.cpp, list_widget.cpp, dialog.cpp
 <br> 考虑到文件数量较多，代码并不完善，ui文件没有上传（ui比较繁琐正在研究阶段）
 <br> 因此另建了repo
 <br>
